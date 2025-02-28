@@ -1,0 +1,143 @@
+Date,Category,Amount,Description,Payment Mode,Cashback
+2025-10-27,Utilities,12.42,Electricity bill,Bank Transfer,0.0
+2025-10-08,Utilities,267.01,Electricity bill,Credit Card,7.3
+2025-10-10,Shopping,68.23,Clothing purchase,Debit Card,2.62
+2025-10-22,Travel,101.38,Movies,Cash,0.0
+2025-10-01,Entertainment,243.76,Concert ticket,Bank Transfer,0.0
+2025-10-03,Healthcare,18.51,Eye exam,Credit Card,0.28
+2025-10-12,Shopping,19.99,Home decor,Debit Card,0.63
+2025-10-17,Food,370.08,Bought snacks,Mobile Payment,0.0
+2025-10-24,Transport,8.51,Public transport ticket,Mobile Payment,0.0
+2025-10-24,Stationary,492.15,Sketch Pens,Cash,0.0
+2025-10-18,Transport,273.67,Train fare,Cash,0.0
+2025-10-08,Entertainment,167.64,Books purchase,Debit Card,5.07
+2025-10-13,Shopping,184.73,Gift purchase,Cash,0.0
+2025-10-09,Food,64.64,Dinner delivery,Cash,0.0
+2025-10-02,Utilities,74.14,Mobile phone bill,Cash,0.0
+2025-10-31,Healthcare,221.78,Gym membership,Cash,0.0
+2025-10-18,Travel,179.32,Sunday picnic,Credit Card,5.52
+2025-10-10,Stationary,9.5,Charts,Mobile Payment,0.0
+2025-10-05,Transport,73.7,Parking fee,Credit Card,2.91
+2025-10-21,Travel,41.33,Mall visit,Cash,0.0
+2025-10-14,Rent,259.32,House rent payment,Debit Card,11.13
+2025-10-25,Transport,274.58,Parking fee,Cash,0.0
+2025-10-17,Utilities,252.1,Internet subscription,Mobile Payment,0.0
+2025-10-21,Stationary,383.76,declutter boxes,Cash,0.0
+2025-10-03,Investments,319.43,mutual funds,Debit Card,4.65
+2025-10-18,Food,448.4,Dinner delivery,Bank Transfer,0.0
+2025-10-19,Investments,468.96,LIC,Cash,0.0
+2025-10-26,Entertainment,452.88,Books purchase,Cash,0.0
+2025-10-13,Investments,72.5,SIP,Credit Card,0.74
+2025-10-24,Stationary,477.82,Charts,Bank Transfer,0.0
+2025-10-19,Food,327.47,Dinner delivery,Cash,0.0
+2025-10-29,Utilities,57.37,Gas bill,Credit Card,1.99
+2025-10-16,Travel,306.33,Mall visit,Debit Card,3.53
+2025-10-22,Utilities,378.0,Water bill,Bank Transfer,0.0
+2025-10-30,Utilities,261.29,Gas bill,Credit Card,12.45
+2025-10-08,Healthcare,115.39,Eye exam,Mobile Payment,0.0
+2025-10-27,Investments,212.29,LIC,Mobile Payment,0.0
+2025-10-31,Shopping,228.0,Online shopping,Cash,0.0
+2025-10-05,Rent,303.96,Apartment rent,Mobile Payment,0.0
+2025-10-07,Stationary,215.32,declutter boxes,Cash,0.0
+2025-10-20,Entertainment,99.96,Theatre show,Cash,0.0
+2025-10-06,Entertainment,281.47,Video games,Bank Transfer,0.0
+2025-10-17,Stationary,25.44,declutter boxes,Debit Card,0.8
+2025-10-01,Food,247.77,Coffee at café,Cash,0.0
+2025-10-06,Shopping,241.12,Shopping for accessories,Bank Transfer,0.0
+2025-10-12,Investments,111.47,LIC,Bank Transfer,0.0
+2025-10-13,Travel,183.12,South Tour,Bank Transfer,0.0
+2025-10-05,Stationary,356.74,declutter boxes,Mobile Payment,0.0
+2025-10-16,Transport,454.65,Uber ride,Cash,0.0
+2025-10-03,Stationary,118.98,Charts,Cash,0.0
+2025-10-26,Travel,415.93,Mall visit,Cash,0.0
+2025-10-10,Transport,422.08,Train fare,Mobile Payment,0.0
+2025-10-24,Stationary,211.62,Charts,Credit Card,4.54
+2025-10-02,Shopping,426.03,New shoes,Mobile Payment,0.0
+2025-10-14,Rent,420.96,Apartment rent,Cash,0.0
+2025-10-19,Healthcare,63.84,Health insurance,Cash,0.0
+2025-10-09,Entertainment,161.38,Concert ticket,Bank Transfer,0.0
+2025-10-29,Investments,171.44,stocks,Cash,0.0
+2025-10-03,Food,203.81,Fast food meal,Debit Card,7.61
+2025-10-31,Healthcare,71.99,Health insurance,Bank Transfer,0.0
+2025-10-11,Rent,231.18,Monthly rent,Mobile Payment,0.0
+2025-10-09,Investments,140.95,stocks,Debit Card,2.37
+2025-10-17,Healthcare,492.59,Prescription glasses,Mobile Payment,0.0
+2025-10-09,Transport,289.53,Car repair,Credit Card,4.89
+2025-10-09,Shopping,372.02,New shoes,Credit Card,10.69
+2025-10-22,Food,90.43,Weekly groceries,Cash,0.0
+2025-10-31,Utilities,471.99,Electricity bill,Debit Card,7.73
+2025-10-15,Investments,253.19,LIC,Debit Card,11.8
+2025-10-04,Rent,356.67,Room rent payment,Credit Card,12.02
+2025-10-22,Entertainment,447.31,Dinner and drinks,Debit Card,14.39
+2025-10-14,Transport,372.29,Public transport ticket,Cash,0.0
+2025-10-03,Investments,285.57,mutual funds,Cash,0.0
+2025-10-15,Transport,486.46,Gas station refill,Cash,0.0
+2025-10-31,Shopping,425.85,Shopping for accessories,Cash,0.0
+2025-10-01,Investments,125.51,LIC,Bank Transfer,0.0
+2025-10-22,Transport,211.3,Train fare,Mobile Payment,0.0
+2025-10-14,Utilities,30.8,Cable TV subscription,Mobile Payment,0.0
+2025-10-26,Stationary,235.61,Sheets,Debit Card,2.53
+2025-10-03,Entertainment,482.36,Dinner and drinks,Bank Transfer,0.0
+2025-10-31,Food,206.22,Lunch at restaurant,Mobile Payment,0.0
+2025-10-12,Healthcare,318.48,Eye exam,Cash,0.0
+2025-10-20,Healthcare,18.77,Dental check-up,Bank Transfer,0.0
+2025-10-04,Stationary,466.59,declutter boxes,Mobile Payment,0.0
+2025-10-13,Travel,265.21,Sunday picnic,Mobile Payment,0.0
+2025-10-22,Rent,334.55,Apartment rent,Cash,0.0
+2025-10-26,Stationary,487.08,Sketch Pens,Debit Card,17.16
+2025-10-06,Utilities,483.4,Gas bill,Cash,0.0
+2025-10-20,Shopping,16.97,Gift purchase,Bank Transfer,0.0
+2025-10-16,Travel,83.2,South Tour,Debit Card,3.59
+2025-10-09,Transport,158.06,Uber ride,Bank Transfer,0.0
+2025-10-21,Food,198.79,Coffee at café,Bank Transfer,0.0
+2025-10-10,Investments,225.81,stocks,Debit Card,8.63
+2025-10-22,Food,219.79,Weekly groceries,Cash,0.0
+2025-10-23,Entertainment,413.85,Books purchase,Credit Card,5.69
+2025-10-03,Stationary,143.15,Charts,Debit Card,2.08
+2025-10-28,Food,368.25,Weekly groceries,Credit Card,9.84
+2025-10-04,Stationary,209.44,declutter boxes,Credit Card,3.53
+2025-10-29,Healthcare,462.71,Prescription glasses,Cash,0.0
+2025-10-05,Transport,39.95,Taxi fare,Mobile Payment,0.0
+2025-10-07,Food,457.64,Weekly groceries,Mobile Payment,0.0
+2025-10-14,Stationary,153.14,declutter boxes,Credit Card,7.23
+2025-10-14,Stationary,452.75,Pens,Bank Transfer,0.0
+2025-10-09,Stationary,474.19,Sketch Pens,Bank Transfer,0.0
+2025-10-28,Stationary,391.9,Charts,Mobile Payment,0.0
+2025-10-15,Utilities,469.21,Mobile phone bill,Cash,0.0
+2025-10-27,Travel,295.39,Hastinapur tour,Bank Transfer,0.0
+2025-10-18,Travel,97.73,Movies,Bank Transfer,0.0
+2025-10-21,Stationary,20.66,declutter boxes,Credit Card,0.27
+2025-10-06,Entertainment,489.34,Concert ticket,Mobile Payment,0.0
+2025-10-10,Entertainment,209.12,Video games,Bank Transfer,0.0
+2025-10-06,Transport,324.0,Public transport ticket,Cash,0.0
+2025-10-14,Travel,18.97,Sunday picnic,Cash,0.0
+2025-10-02,Rent,157.33,Room rent payment,Cash,0.0
+2025-10-21,Stationary,74.68,Sketch Pens,Cash,0.0
+2025-10-13,Shopping,29.85,Home decor,Mobile Payment,0.0
+2025-10-19,Utilities,131.38,Mobile phone bill,Mobile Payment,0.0
+2025-10-08,Rent,365.12,Room rent payment,Credit Card,9.49
+2025-10-16,Transport,235.72,Uber ride,Cash,0.0
+2025-10-04,Food,63.21,Grocery shopping,Debit Card,2.51
+2025-10-23,Transport,207.62,Uber ride,Mobile Payment,0.0
+2025-10-15,Utilities,296.14,Mobile phone bill,Debit Card,14.21
+2025-10-04,Shopping,432.61,Gift purchase,Mobile Payment,0.0
+2025-10-07,Food,19.56,Dinner delivery,Cash,0.0
+2025-10-18,Food,268.4,Fast food meal,Credit Card,4.83
+2025-10-03,Healthcare,289.87,Prescription glasses,Bank Transfer,0.0
+2025-10-24,Stationary,300.27,Pens,Mobile Payment,0.0
+2025-10-16,Healthcare,239.94,Gym membership,Credit Card,11.91
+2025-10-07,Utilities,321.05,Internet subscription,Credit Card,7.11
+2025-10-19,Transport,485.6,Car repair,Debit Card,23.05
+2025-10-03,Utilities,144.39,Cable TV subscription,Bank Transfer,0.0
+2025-10-27,Transport,457.26,Taxi fare,Debit Card,9.53
+2025-10-11,Rent,91.54,House rent payment,Debit Card,1.52
+2025-10-22,Rent,365.86,Apartment rent,Credit Card,18.02
+2025-10-25,Stationary,10.33,Pens,Mobile Payment,0.0
+2025-10-18,Healthcare,248.79,Eye exam,Cash,0.0
+2025-10-03,Transport,388.46,Parking fee,Cash,0.0
+2025-10-12,Healthcare,437.28,Gym membership,Cash,0.0
+2025-10-02,Shopping,205.56,Bought electronics,Bank Transfer,0.0
+2025-10-30,Food,461.11,Grocery shopping,Cash,0.0
+2025-10-27,Rent,260.68,Apartment rent,Cash,0.0
+2025-10-01,Entertainment,334.08,Streaming subscription,Mobile Payment,0.0
+2025-10-27,Food,374.09,Grocery shopping,Debit Card,14.99

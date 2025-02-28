@@ -1,0 +1,131 @@
+Date,Category,Amount,Description,Payment Mode,Cashback
+2025-08-17,Shopping,50.67,Home decor,Debit Card,2.52
+2025-08-11,Shopping,113.47,Gift purchase,Debit Card,3.38
+2025-08-16,Utilities,185.79,Water bill,Mobile Payment,0.0
+2025-08-28,Entertainment,258.73,Movie ticket,Mobile Payment,0.0
+2025-08-13,Investments,117.1,mutual funds,Cash,0.0
+2025-08-05,Investments,143.59,LIC,Debit Card,1.85
+2025-08-09,Transport,294.12,Taxi fare,Credit Card,10.5
+2025-08-05,Investments,134.25,SIP,Mobile Payment,0.0
+2025-08-31,Entertainment,11.57,Books purchase,Bank Transfer,0.0
+2025-08-19,Travel,260.78,Movies,Cash,0.0
+2025-08-21,Entertainment,21.31,Streaming subscription,Debit Card,1.0
+2025-08-10,Food,252.54,Lunch at restaurant,Bank Transfer,0.0
+2025-08-04,Transport,201.78,Car repair,Mobile Payment,0.0
+2025-08-17,Transport,211.97,Car repair,Mobile Payment,0.0
+2025-08-30,Transport,319.62,Taxi fare,Credit Card,7.52
+2025-08-13,Transport,333.41,Uber ride,Debit Card,4.88
+2025-08-13,Investments,48.3,mutual funds,Cash,0.0
+2025-08-09,Food,95.65,Fast food meal,Cash,0.0
+2025-08-30,Food,481.53,Bought snacks,Mobile Payment,0.0
+2025-08-28,Healthcare,215.73,Dental check-up,Mobile Payment,0.0
+2025-08-21,Food,166.86,Coffee at café,Mobile Payment,0.0
+2025-08-11,Stationary,225.86,declutter boxes,Mobile Payment,0.0
+2025-08-31,Transport,236.6,Train fare,Cash,0.0
+2025-08-24,Entertainment,131.18,Theatre show,Debit Card,4.96
+2025-08-03,Food,74.89,Fast food meal,Cash,0.0
+2025-08-23,Transport,228.84,Taxi fare,Bank Transfer,0.0
+2025-08-30,Rent,163.5,Monthly rent,Debit Card,4.29
+2025-08-12,Travel,25.82,Mall visit,Credit Card,0.32
+2025-08-15,Transport,35.24,Train fare,Debit Card,1.61
+2025-08-21,Investments,447.17,SIP,Debit Card,10.17
+2025-08-29,Travel,26.61,Sunday picnic,Debit Card,0.36
+2025-08-07,Food,461.63,Bought snacks,Debit Card,18.25
+2025-08-18,Rent,415.29,Room rent payment,Mobile Payment,0.0
+2025-08-09,Rent,58.84,Apartment rent,Cash,0.0
+2025-08-11,Transport,340.96,Uber ride,Bank Transfer,0.0
+2025-08-18,Food,357.23,Coffee at café,Credit Card,13.8
+2025-08-16,Rent,385.03,Room rent payment,Cash,0.0
+2025-08-11,Investments,170.43,LIC,Bank Transfer,0.0
+2025-08-22,Stationary,292.47,Pens,Credit Card,8.86
+2025-08-03,Travel,483.7,South Tour,Bank Transfer,0.0
+2025-08-27,Travel,162.71,Sunday picnic,Debit Card,6.95
+2025-08-23,Investments,437.91,SIP,Credit Card,11.5
+2025-08-13,Investments,327.25,mutual funds,Cash,0.0
+2025-08-18,Transport,305.49,Public transport ticket,Mobile Payment,0.0
+2025-08-21,Food,47.51,Weekly groceries,Debit Card,0.91
+2025-08-14,Utilities,141.59,Gas bill,Mobile Payment,0.0
+2025-08-15,Transport,228.23,Gas station refill,Debit Card,4.51
+2025-08-16,Stationary,118.09,Sheets,Mobile Payment,0.0
+2025-08-21,Utilities,244.6,Gas bill,Credit Card,5.95
+2025-08-19,Utilities,209.15,Electricity bill,Cash,0.0
+2025-08-29,Food,271.0,Coffee at café,Bank Transfer,0.0
+2025-08-25,Healthcare,28.09,Medicine purchase,Cash,0.0
+2025-08-16,Utilities,113.36,Gas bill,Credit Card,5.23
+2025-08-19,Investments,216.3,LIC,Cash,0.0
+2025-08-24,Travel,484.14,Sunday picnic,Mobile Payment,0.0
+2025-08-31,Food,55.85,Bought snacks,Bank Transfer,0.0
+2025-08-03,Healthcare,292.37,Gym membership,Cash,0.0
+2025-08-29,Investments,248.98,mutual funds,Mobile Payment,0.0
+2025-08-22,Food,245.47,Dinner delivery,Credit Card,6.97
+2025-08-24,Transport,251.98,Gas station refill,Credit Card,7.81
+2025-08-26,Investments,332.28,LIC,Bank Transfer,0.0
+2025-08-25,Rent,335.76,Apartment rent,Credit Card,5.89
+2025-08-29,Shopping,77.77,Shopping for accessories,Credit Card,2.48
+2025-08-30,Travel,229.75,Sunday picnic,Mobile Payment,0.0
+2025-08-04,Healthcare,253.83,Health insurance,Mobile Payment,0.0
+2025-08-24,Transport,154.87,Car repair,Credit Card,5.36
+2025-08-27,Rent,113.58,Monthly rent,Mobile Payment,0.0
+2025-08-26,Entertainment,379.81,Theatre show,Credit Card,9.58
+2025-08-16,Investments,83.26,stocks,Bank Transfer,0.0
+2025-08-26,Shopping,298.9,Online shopping,Debit Card,4.44
+2025-08-13,Shopping,363.21,Home decor,Credit Card,7.57
+2025-08-20,Transport,100.15,Gas station refill,Debit Card,1.76
+2025-08-17,Stationary,219.75,Sheets,Cash,0.0
+2025-08-27,Rent,108.84,Room rent payment,Credit Card,2.66
+2025-08-18,Utilities,210.59,Internet subscription,Bank Transfer,0.0
+2025-08-28,Rent,64.12,Apartment rent,Mobile Payment,0.0
+2025-08-13,Entertainment,411.79,Dinner and drinks,Credit Card,17.28
+2025-08-09,Transport,462.29,Gas station refill,Cash,0.0
+2025-08-24,Transport,105.22,Taxi fare,Bank Transfer,0.0
+2025-08-25,Healthcare,204.07,Gym membership,Cash,0.0
+2025-08-30,Entertainment,434.65,Dinner and drinks,Cash,0.0
+2025-08-12,Rent,190.28,Monthly rent,Bank Transfer,0.0
+2025-08-24,Investments,376.65,stocks,Cash,0.0
+2025-08-28,Healthcare,303.99,Medicine purchase,Bank Transfer,0.0
+2025-08-26,Stationary,189.36,Sketch Pens,Debit Card,3.98
+2025-08-30,Stationary,483.76,declutter boxes,Mobile Payment,0.0
+2025-08-02,Rent,63.36,Monthly rent,Mobile Payment,0.0
+2025-08-10,Travel,65.38,Hastinapur tour,Debit Card,3.23
+2025-08-16,Healthcare,244.33,Medicine purchase,Bank Transfer,0.0
+2025-08-23,Healthcare,129.98,Gym membership,Bank Transfer,0.0
+2025-08-28,Investments,81.07,mutual funds,Cash,0.0
+2025-08-23,Stationary,42.14,declutter boxes,Mobile Payment,0.0
+2025-08-22,Transport,236.8,Parking fee,Cash,0.0
+2025-08-28,Rent,325.42,Monthly rent,Mobile Payment,0.0
+2025-08-15,Utilities,351.91,Cable TV subscription,Cash,0.0
+2025-08-05,Stationary,316.7,Charts,Cash,0.0
+2025-08-30,Transport,393.48,Parking fee,Cash,0.0
+2025-08-12,Shopping,290.8,Gift purchase,Mobile Payment,0.0
+2025-08-15,Utilities,194.34,Internet subscription,Credit Card,2.27
+2025-08-10,Transport,278.46,Taxi fare,Debit Card,7.72
+2025-08-22,Travel,334.94,Movies,Cash,0.0
+2025-08-10,Healthcare,48.05,Gym membership,Credit Card,2.22
+2025-08-12,Investments,282.27,mutual funds,Cash,0.0
+2025-08-15,Utilities,113.24,Cable TV subscription,Cash,0.0
+2025-08-27,Travel,479.85,Movies,Bank Transfer,0.0
+2025-08-26,Shopping,75.97,New shoes,Credit Card,2.64
+2025-08-13,Utilities,312.34,Mobile phone bill,Credit Card,4.51
+2025-08-28,Entertainment,366.72,Dinner and drinks,Cash,0.0
+2025-08-11,Entertainment,138.36,Movie ticket,Credit Card,2.16
+2025-08-28,Stationary,69.64,Pens,Bank Transfer,0.0
+2025-08-26,Transport,251.39,Taxi fare,Debit Card,7.36
+2025-08-21,Shopping,152.65,Bought electronics,Cash,0.0
+2025-08-13,Entertainment,265.51,Video games,Mobile Payment,0.0
+2025-08-27,Stationary,492.58,Sheets,Credit Card,20.11
+2025-08-08,Entertainment,209.45,Video games,Debit Card,6.61
+2025-08-27,Entertainment,278.07,Dinner and drinks,Mobile Payment,0.0
+2025-08-24,Rent,386.08,Apartment rent,Credit Card,8.21
+2025-08-21,Healthcare,233.72,Gym membership,Bank Transfer,0.0
+2025-08-21,Investments,58.41,LIC,Cash,0.0
+2025-08-20,Investments,457.27,mutual funds,Bank Transfer,0.0
+2025-08-27,Investments,83.0,mutual funds,Bank Transfer,0.0
+2025-08-21,Utilities,269.58,Internet subscription,Mobile Payment,0.0
+2025-08-15,Utilities,286.94,Electricity bill,Mobile Payment,0.0
+2025-08-02,Utilities,18.12,Internet subscription,Mobile Payment,0.0
+2025-08-12,Rent,148.96,Room rent payment,Cash,0.0
+2025-08-10,Utilities,11.85,Mobile phone bill,Credit Card,0.46
+2025-08-29,Entertainment,464.14,Streaming subscription,Mobile Payment,0.0
+2025-08-04,Entertainment,155.33,Video games,Cash,0.0
+2025-08-03,Utilities,360.76,Cable TV subscription,Bank Transfer,0.0
+2025-08-20,Transport,269.15,Public transport ticket,Credit Card,8.31

@@ -54,3 +54,29 @@ This project is a SQL and Streamlit-based Expense Tracker designed to analyze an
 │   ├── df3.csv               # Cleaned expense data
 │   ├── requirements.txt      # Python packages
 │   └── README.md             # This file
+
+---
+##🧠 What I Learned
+-Writing dynamic SQL queries for time-based filtering and grouping.
+
+-Handling NULLs and missing values using IFNULL() and COALESCE().
+
+-Creating dashboards using Streamlit and Plotly.
+
+-Analyzing real-world spending behavior through visual insights.
+
+-Using GitHub for version control and documentation.
+
+---
+##📷 Sample Insights
+-Top Spending Category: Transportation
+
+-Most Active Spending Days: Friday and Saturday
+
+-Most Cashback Earned From: Stationery
+
+-Most Used Payment Mode: Bank Transfer
+
+-Peak Spending Time: Night
+
+-Category with Frequent Small Transactions: Food

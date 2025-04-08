@@ -55,7 +55,7 @@ This project is a SQL and Streamlit-based Expense Tracker designed to analyze an
 
 ---
 
-##🧠 What I Learned
+## 🧠 What I Learned
 
 - Writing dynamic SQL queries for time-based filtering and grouping.
 
@@ -69,7 +69,7 @@ This project is a SQL and Streamlit-based Expense Tracker designed to analyze an
 
 ---
 
-##📷 Sample Insights
+## 📷 Sample Insights
 
 - Top Spending Category: Transportation
 

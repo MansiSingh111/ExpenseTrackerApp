@@ -45,13 +45,13 @@ This project is a SQL and Streamlit-based Expense Tracker designed to analyze an
 
 ## 📁 Project Structure
 
-```bash
-├── expense_tracker/
-│   ├── app.py                # Streamlit app
-│   ├── queries.sql           # SQL queries used
-│   ├── df3.csv               # Cleaned expense data
-│   ├── requirements.txt      # Python packages
-│   └── README.md             # This file
+    ```bash
+    ├── expense_tracker/
+    │   ├── app.py                # Streamlit app
+    │   ├── queries.sql           # SQL queries used
+    │   ├── df3.csv               # Cleaned expense data
+    │   ├── requirements.txt      # Python packages
+    │   └── README.md             # This file
 
 ---
 ##🧠 What I Learned

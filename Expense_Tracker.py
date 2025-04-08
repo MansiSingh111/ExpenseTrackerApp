@@ -4,7 +4,7 @@ import numpy as np
 import pymysql
 import plotly.express as px
 
-# MySQL Database Configuration (Change these details)
+# MySQL Database Configuration 
 DB_HOST = "localhost"
 DB_USER = "root"
 DB_PASSWORD = "Password7"
@@ -33,7 +33,7 @@ if page == "Home":
             "### Annual Expense Table")
     st.write("Below is the breakdown of Monthly Expenses")
 
-    df=pd.read_csv("C:/Users/Mansi/.vscode/Annual_expense.csv")
+    df=pd.read_csv("Annual_expense.csv")
     st.write(df)
 
     # Convert 'date' column to datetime
@@ -119,8 +119,21 @@ elif page == "Queries":
         "Query 12 : The typical costs associated with Travelling.":"SELECT Category AS Travel_type, AVG(amount) AS avg_cost, MIN(amount) AS min_cost, MAX(amount) AS max_cost, SUM(amount) AS total_spent, COUNT(*) AS num_transactions FROM df3 WHERE Category IN('Travel','Transport') GROUP BY travel_type ORDER BY total_spent DESC;",
         "Query 13 : To Analysis the patterns in grocery spendings.": "SELECT DAYNAME(date) AS day_of_week, SUM(amount) AS total_spent, COUNT(*) AS num_transactions FROM df3 WHERE Category = 'Food' GROUP BY day_of_week ORDER BY FIELD(day_of_week,'Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday');",
         "Query 14 : To define High and Low priority Categories": "SELECT Category, SUM(amount) AS total_spent, CASE WHEN SUM(amount)>=45000 then 'High Priority' WHEN SUM(amount) BETWEEN 40000 AND 30000 THEN 'Medium Priority' ELSE 'low Priority' END AS priority FROM df3 GROUP BY Category ORDER BY total_spent DESC;",
-        "Query 15 : The Categories contributing the highest Percentage of the total spendings": "SELECT Category, SUM(amount) AS total_spent, (SUM(amount)/(SELECT SUM(amount)FROM df3)*100) AS Percentage FROM df3 GROUP BY Category ORDER BY total_spent DESC LIMIT 1;"
-        
+        "Query 15 : The Categories contributing the highest Percentage of the total spendings": "SELECT Category, SUM(amount) AS total_spent, (SUM(amount)/(SELECT SUM(amount)FROM df3)*100) AS Percentage FROM df3 GROUP BY Category ORDER BY total_spent DESC LIMIT 1;",
+        "Query 16 : The Average Transaction amount per Category": "SELECT Category,ROUND(AVG(Amount), 2) AS Avg_Transaction_Amount FROM df3 GROUP BY Category ORDER BY Avg_Transaction_Amount DESC;",
+        "Query 17 : Number of Transaction per month + total spent(correlation)": "SELECT DATE_FORMAT(Date, '%Y-%m') AS Month,COUNT(*) AS Transaction_Count,SUM(Amount) AS Total_Spent FROM df3 GROUP BY Month ORDER BY Month;",
+        "Query 18 : Day(s) of the Week with Most Spending": "SELECT DAYNAME(Date) AS Day_Of_Week, COUNT(*) AS Transaction_Count,SUM(Amount) AS Total_Spent FROM df3 GROUP BY Day_Of_Week ORDER BY Total_Spent DESC;",
+        "Query 19 : How often spend more than a specific threshold (e.g., ₹300)?" : "SELECT COUNT(*) AS high_value_transactions FROM df3 WHERE amount > 1000;",
+        "Query 20 : Merchants Where You Consistently Overspend" : "SELECT Category,COUNT(*) AS transaction_count,SUM(amount) AS total_spent FROM df3 GROUP BY Category HAVING total_spent > 5000;",
+        "Query 21 : Categories with Most Cashback Earned " : "SELECT category,SUM(cashback) AS total_cashback FROM df3 WHERE cashback > 0 GROUP BY category ORDER BY total_cashback DESC;",
+        "Query 22 : Most Common Payment Method Per Category" : "SELECT Category, `Payment Mode`, COUNT(*) AS Usage_Count FROM df3 GROUP BY Category, `Payment Mode`ORDER BY Category, Usage_Count DESC;",
+        "Query 23 : Peak Spending Times in the Day (Morning, Afternoon, Evening)" : "SELECT CASE WHEN HOUR(Date) BETWEEN 5 AND 11 THEN 'Morning'WHEN HOUR(Date) BETWEEN 12 AND 16 THEN 'Afternoon'WHEN HOUR(Date) BETWEEN 17 AND 21 THEN 'Evening' ELSE 'Night'END AS Time_Of_Day,COUNT(*) AS Transaction_Count,SUM(Amount) AS Total_Spent FROM df3 GROUP BY Time_Of_Day ORDER BY Total_Spent DESC;",
+        "Query 24 : Categories with Most Frequent Small Transactions (<₹100)" : "SELECT category, COUNT(*) AS small_txn_count FROM df3 WHERE amount < 100 GROUP BY category ORDER BY small_txn_count DESC;",
+        "Query 25 : Months with Unusually Low Spending" : "WITH MonthlyTotals AS (SELECT DATE_FORMAT(Date, '%Y-%m') AS Month, SUM(Amount) AS Total_Spent FROM df3 GROUP BY Month),AvgTotal AS (SELECT AVG(Total_Spent) AS Avg_Spent FROM MonthlyTotals) SELECT m.Month, m.Total_Spent FROM MonthlyTotals m, AvgTotal a WHERE m.Total_Spent < a.Avg_Spent * 0.95 ORDER BY m.Total_Spent ASC;"
+
+
+
+
     }
 
     # ✅ Dropdown to select a query
